@@ -1,0 +1,4 @@
+# Project exclude paths
+/hello-apache-dubbo-consumer/target/
+/hello-apache-dubbo-provider/hello-apache-dubbo-provider-api/target/
+/hello-apache-dubbo-provider/hello-apache-dubbo-provider-service/target/
