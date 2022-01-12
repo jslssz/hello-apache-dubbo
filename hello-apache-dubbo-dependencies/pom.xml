@@ -11,7 +11,7 @@
 
     <properties>
         <!-- Native Cloud -->
-        <dubbo.version>2.7.3</dubbo.version>
+        <dubbo.version>2.7.15</dubbo.version>
         <dubbo-actuator.version>2.7.3</dubbo-actuator.version>
         <spring-cloud.version>Greenwich.SR2</spring-cloud.version>
         <spring-cloud-alibaba.verion>2.1.0.RELEASE</spring-cloud-alibaba.verion>
